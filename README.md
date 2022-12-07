@@ -34,13 +34,13 @@ As in this picture (use jdk, not jre)
 
 To Install Them You Need To Open Command prompt/PowerShell And To Tipe
 ```cmd
-haxelib git extension-androidtools https://github.com/jigsaw-4277821/extension-androidtools.git
+haxelib git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools.git
 
-haxelib git extension-videoview https://github.com/jigsaw-4277821/extension-videoview.git
+haxelib git extension-videoview https://github.com/MAJigsaw77/extension-videoview.git
 
 haxelib remove linc_luajit
 
-haxelib git linc_luajit https://github.com/jigsaw-4277821/linc_luajit.git
+haxelib git linc_luajit https://github.com/MAJigsaw77/linc_luajit.git
 
 ```
 
